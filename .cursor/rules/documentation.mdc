@@ -1,0 +1,14 @@
+---
+description: Comprehensive documentation requirements
+globs: 
+alwaysApply: false
+---
+
+# Your rule content
+- Create comprehensive documentation of how the sloution works
+- When debugging reference this documentation
+- When changes are made that would make a part of the documentation no longer accurate, update the documentation
+- Create a software requirements specification document at the start of the project
+- Create a traceability within the documentation to demonstrate that the requirements have been met
+- You can @ files here
+- You can use markdown but dont have to
